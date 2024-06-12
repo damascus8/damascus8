@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damascus8&show_icons=true&locale=en" alt="damascus8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damascus8&" alt="damascus8" /></p>
+
+<img src="https://raw.githubusercontent.com/damascus8/damascus8/output/snake.svg" alt="Snake animation" />
+
