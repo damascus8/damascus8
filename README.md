@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **AI,ML,System Design, Architecture,REST**
+- 💬 Ask me about **Architecture,REST,API,JAVA,SPRINGBOOT**
 
 - 📫 How to reach me **siddharthshrivastav888@gmail.com**
 
