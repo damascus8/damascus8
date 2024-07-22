@@ -8,10 +8,6 @@
 <p align="left"> <a href="https://github.com/damascus8/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damascus8&theme=onedark" alt="damascus8" /></a> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=damascus8&theme=onedark)](https://github.com/damascus8/github-profile-trophy)
-
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
