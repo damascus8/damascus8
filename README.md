@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damascus8" alt="damascus8" /></a> </p>
 
+<p align="left"> <a href="https://github.com/damascus8/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damascus8&theme=onedark" alt="damascus8" /></a> </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=damascus8&theme=onedark)](https://github.com/damascus8/github-profile-trophy)
 
