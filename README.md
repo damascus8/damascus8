@@ -1,24 +1,3 @@
-Siddharth, here is a **complete advanced GitHub README** you can **copy-paste directly** into your `README.md` (inside repo `damascus8/damascus8`).
-It includes:
-
-✅ Typing animation
-✅ Clean hero section
-✅ Java class intro
-✅ Tech stack icons
-✅ GitHub stats
-✅ Streak stats
-✅ Contribution graph
-✅ Snake animation
-✅ Social links
-✅ Dev philosophy
-
-This will make your profile look **like top-tier developer profiles**.
-
----
-
-# 📄 FULL COPY-PASTE README
-
-````md
 <h1 align="center">Hey 👋, I'm Siddharth Shrivastav</h1>
 
 <h3 align="center">
