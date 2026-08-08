@@ -92,7 +92,7 @@
 <a href="https://dev.to/thesiddharthshrivastav"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/></a>
 </p>
 
-📫 Email: **siddharthshrivastav30@gmail.com**
+📫 Email: **siddharthshrivastav888@gmail.com**
 
 ---
 
